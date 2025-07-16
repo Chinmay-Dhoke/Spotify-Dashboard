@@ -4,18 +4,30 @@ This is an **Excel-based dashboard project** using dummy data to show insights a
 
 ---
 
-## 📌 Project Description
+📌 Project Description
+This project is a fully interactive Excel-based Dashboard built using simulated Spotify streaming data for India. The primary goal of this project is to practice and demonstrate Excel dashboard creation, data cleaning, and data visualization using charts and slicers.
 
-This is an Excel-based dashboard project that analyzes Spotify streaming data in India using dummy data.
+In this dashboard, dummy data representing streaming activity on Spotify has been visualized to provide key music insights for stakeholders or business users.
 
-The purpose of the project is to:
-- Practice data cleaning and dashboard creation in Excel
-- Build interactive visualizations using slicers and charts
-- Show insights such as top artists, songs, genres, and region-wise trends
+📅 The dataset covers a time range from January 2023 to December 2024.
 
-The dashboard includes filters (slicers) for **genre**, **year**, and **artist** so that users can explore the data easily.
+The dashboard includes:
 
-This project helped me improve my skills in Excel charts, pivot tables, and layout design.
+A breakdown of top artists based on stream counts.
+
+Genre-wise analysis to identify listener preferences.
+
+Time-based filtering using Year and Month slicers.
+
+Clean and easy-to-navigate layout for a smooth user experience.
+
+This project serves as a personal learning milestone to:
+
+Understand how to turn raw data into meaningful visuals.
+
+Use Excel tools like Pivot Tables, Slicers, and Conditional Formatting.
+
+Practice real-world reporting scenarios using dummy but structured datasets.
 
 ---
 
